@@ -1,6 +1,8 @@
 # AttendX
 An AI based attendance app that uses **face-api.js** to mark attendance of student using face recognition. 
 
+> ⚠️ This project was originally developed and published under [my old GitHub account](https://github.com/swapn652/AttendX), which I no longer have access to.
+
 ### My submission for Hack-R-Play 2.0 organised by ReactPlay.io
 
 ### Link to the blog: 
